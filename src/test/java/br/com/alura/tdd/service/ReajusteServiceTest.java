@@ -12,7 +12,6 @@ import br.com.alura.tdd.modelo.Desempenho;
 import br.com.alura.tdd.modelo.Funcionario;
 
 public class ReajusteServiceTest {
-
 	private ReajusteService service;
 	private Funcionario fulano;
 
